@@ -19,10 +19,12 @@
 			autoAnimateDuration: 1,
 			hash: true,
 			// controls: false,
-			progress: false
+			progress: false,
+            center: true
 		})
 
 		deck.initialize()
+        
 	})
 </script>
 

@@ -5,5 +5,3 @@
     <title>Presentation</title>
 </svelte:head>
 <Slides />
-<style>
-</style>
